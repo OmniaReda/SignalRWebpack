@@ -1,0 +1,6 @@
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.csproj.AssemblyReference.cache
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.AssemblyInfoInputs.cache
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.AssemblyInfo.cs
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.csproj.CoreCompileInputs.cache
+C:\Users\oali\Desktop\SignalRWebpack\obj\Debug\net5.0\SignalRWebpack.MvcApplicationPartsAssemblyInfo.cache

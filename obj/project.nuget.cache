@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMbUwWB23tm2fNoRKwLD4ShwbYjynddrbBEGEv9YUDZ3H+qnx8T0qfw7DznQlijJ9dGZzCew9QaoCks9WQr6GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oali\\Desktop\\SignalRWebpack\\SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oali\\.nuget\\packages\\microsoft.typescript.msbuild\\4.9.5\\microsoft.typescript.msbuild.4.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}
